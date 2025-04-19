@@ -68,7 +68,7 @@ Skin diseases often require professional diagnosis, which might not be accessibl
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 1. Clone the repository:
     ```bash
@@ -108,13 +108,6 @@ Skin diseases often require professional diagnosis, which might not be accessibl
 - Add image-based prediction using CNNs.
 - Build a user-friendly web/mobile app interface.
 - Improve dataset size and diversity.
-
----
-
-## 👥 Contributors
-
-- [Kaushika Y J](https://github.com/kaushikayj) (Machine Learning & Code Development)
-
 ---
 
 > Feel free to fork this repo, suggest improvements, or contribute!
